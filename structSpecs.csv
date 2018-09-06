@@ -1,0 +1,7 @@
+id,name,hp,dps,rangeMax,rangeMin,splash,targets,size,maxNum
+0,wall,50,0,0,0,0,[],1,50
+1,cannon,300,50,10,0,0,[0],3,3
+2,archtowr,300,50,10,0,0,[0,1],3,3
+3,mortar,300,50,13,3,1,[0],3,2
+,,,,,,,,
+,,,,,,,,
